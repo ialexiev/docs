@@ -19,3 +19,5 @@ Before organization members can publish container images to {% data variables.pr
     - To enable organization members to create a private container image that is only visible to other organization members, click **Private**. You can further customize the visibility of a private container image. For more information, see "[Configuring access control and visibility for container images](/packages/managing-container-images-with-github-container-registry/configuring-access-control-and-visibility-for-container-images)."
 
     ![Options to enable public or private packages ](/assets/images/help/package-registry/package-creation-org-settings.png)
+
+
